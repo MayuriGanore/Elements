@@ -384,5 +384,22 @@
     "meltingPoint_inDegreeCelsius": "44.1C",
     "bolingPoint_inDegreeCelsius": "280.5C"
   }
+{
+    "id": 48,
+    "name": "Sodium",
+    "molecular formula": "Na",
+    "colour": "white",
+    "meltingPoint_inDegreeCelsius": "44.1C",
+    "bolingPoint_inDegreeCelsius": "280.5C"
+  }
+{
+    "id": 467,
+    "name": "Rutherfordium",
+    "molecular formula": "Rf",
+    "colour": "Unknown,but probably metallic and silvery white or grey in appearance",
+    "meltingPoint_inDegreeCelsius": "2100°C (2373.15 K)",
+    "bolingPoint_inDegreeCelsius": "2100°C (2373.15 K)"
+  }
+
 
 ]
